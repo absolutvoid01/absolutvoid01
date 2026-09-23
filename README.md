@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="glitchedvisor banner.png" alt="banner"/>
+</p>
+
 # Hi there, I'm GlitchedVisor. 👋
 
 I am a secondary school student with a passion for technology and programming. I am focused on creating responsive, user-friendly digital experiences. I enjoy turning complex problems into elegant, clean code.
