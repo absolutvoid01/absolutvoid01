@@ -2,7 +2,7 @@
   <img src="glitchedvisor banner.png" alt="banner"/>
 </p>
 
-# Hi there, I'm GlitchedVisor. 👋
+# Hi there, I'm GlitchedVisor.
 
 I am a secondary school student with a passion for technology and programming. I am focused on creating responsive, user-friendly digital experiences. I enjoy turning complex problems into elegant, clean code.
 
@@ -13,23 +13,7 @@ I am a secondary school student with a passion for technology and programming. I
 - 💻 I’m currently working on building dynamic web applications.
 - 🌐 Check out my personal website: **[absolutvoid01.github.io/my-web-bio/](https://github.io)**
 - 🌱 I’m currently learning computer science, web development, Blender modelling and animating.
-- ⚡ Fun fact: I am into F1 races now. I like to do dev stuff, stargazing, daydreaming and art.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-Below are the technologies and tools I work with daily:
-
-#### Frontend & Languages
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-
-#### Tools & Platforms
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![VS Code](https://shields.io)
+- ⚡ I am into F1 races now. I like to do dev stuff, stargazing, daydreaming and art. I am also really curious with software and hardware. I also like travelling.
 
 ---
 
@@ -47,7 +31,7 @@ Here is my latest repository: [my-web-bio](https://github.com/absolutvoid01/my-w
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://vercel.app" alt="GitHub Stats" height="150" />
 </p>
 
