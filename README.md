@@ -23,7 +23,7 @@ Below are some of my projects
 #### 📂 [My Web Bio](https://github.com)
 A responsive static personal digital biography and portfolio dashboard.
 * **Tech Stack:** HTML5, CSS3, JavaScript, GitHub Pages
-* **Live View:** [Launch Site](https://github.io)
+* **Live View:** [Launch Site](https://absolutvoid01.github.io/my-web-bio)
 
 Here is my latest repository: [my-web-bio](https://github.com/absolutvoid01/my-web-bio) 
   
