@@ -11,7 +11,7 @@ I am a secondary school student with a passion for technology and programming. I
 ### 🚀 About Me
 
 - 💻 I’m currently working on building dynamic web applications.
-- 🌐 Check out my personal website: **[absolutvoid01.github.io/my-web-bio/](https://absolutvoid01.github.io/my-web-bio/)**
+- 🌐 Check out my personal website: **[absolutvoid01.github.io/personal-portfolio/](https://absolutvoid01.github.io/personal-portfolio)**
 - 🌱 I’m currently learning computer science, web development, Blender modelling and animating.
 - ⚡ I am into F1 races and a HUGE fan of Murder Dones. I like to do dev stuff, stargazing, daydreaming and art. I am also really curious with software and hardware. I also like travelling.
 
@@ -23,9 +23,9 @@ Below are some of my projects
 #### 📂 [My Web Bio](https://github.com)
 A responsive static personal digital biography and portfolio dashboard.
 * **Tech Stack:** HTML5, CSS3, JavaScript, GitHub Pages
-* **Live View:** [Launch Site](https://absolutvoid01.github.io/my-web-bio)
+* **Live View:** [Launch Site]([https://absolutvoid01.github.io/my-web-bio](https://absolutvoid01.github.io/personal-portfolio))
 
-Here is my latest repository: [my-web-bio](https://github.com/absolutvoid01/my-web-bio) 
+Here is my latest repository: [personal-portfolio](https://github.com/absolutvoid01/personal-portfolio) 
   
 ---
 
