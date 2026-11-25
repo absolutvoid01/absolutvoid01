@@ -31,8 +31,18 @@ Here is my latest repository: [personal-portfolio](https://github.com/absolutvoi
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
+<p align="left">
+  <a href="https://discordapp.com/users/1510550254683029514">
+    <img src="./discord.svg" alt="Discord" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR_SPOTIFY_PROFILE_LINK">
+    <img src="./spotify.svg" alt="Spotify" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR_PINTEREST_PROFILE_LINK">
+    <img src="./pinterest.svg" alt="Pinterest" width="40" />
+  </a>
 </p>
 
 ---
