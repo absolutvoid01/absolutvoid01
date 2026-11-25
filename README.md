@@ -31,7 +31,10 @@ Here is my latest repository: [personal-portfolio](https://github.com/absolutvoi
 
 ### 📊 GitHub Stats
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=absolutvoid01&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absolutvoid01&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150" />
+</p>
 
 ---
 
