@@ -31,19 +31,7 @@ Here is my latest repository: [personal-portfolio](https://github.com/absolutvoi
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://discordapp.com/users/1510550254683029514">
-    <img src="./discord.svg" alt="Discord" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="YOUR_SPOTIFY_PROFILE_LINK">
-    <img src="./spotify.svg" alt="Spotify" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="YOUR_PINTEREST_PROFILE_LINK">
-    <img src="./pinterest.svg" alt="Pinterest" width="40" />
-  </a>
-</p>
+
 
 ---
 
@@ -51,6 +39,16 @@ Here is my latest repository: [personal-portfolio](https://github.com/absolutvoi
 
 Let's connect and collaborate on interesting projects!
 
-<a href="https://discordapp.com/users/1510550254683029514">
-  <img src="./discord.svg" alt="Discord" width="40" />
-</a>
+<p align="left">
+  <a href="https://discordapp.com/users/1510550254683029514">
+    <img src="./discord.svg" alt="Discord" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/31m2macpp4bokmry2gjpjoiz565e">
+    <img src="./spotify.svg" alt="Spotify" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.pinterest.com/absolute_void01/">
+    <img src="./pinterest.svg" alt="Pinterest" width="40" />
+  </a>
+</p>
