@@ -41,4 +41,6 @@ Here is my latest repository: [personal-portfolio](https://github.com/absolutvoi
 
 Let's connect and collaborate on interesting projects!
 
-[![Discord](https://shields.io)](https://discordapp.com/users/1510550254683029514)
+<a href="https://discordapp.com/users/1510550254683029514">
+  <img src="./discord.svg" alt="Discord" width="40" />
+</a>
